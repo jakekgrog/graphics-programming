@@ -1,0 +1,15 @@
+COMPILE USING: gcc MyProg.c -o MyProg -lGL -lglut -lm 
+
+MouseFunction
+- Divide by 250 as world space is 2 units wide (500) where as window space is 1 unit wide (250)
+
+- passive motion: mouse movement, no click and hold
+- active motion: clicking and holding and moving the mouse
+
+MyMouse2
+ - MyMouse()
+    - detect if mouse is inside the square, if it is, change the squares color
+
+Idle.c
+ - If idle, rotate square by incrementing theta
+
