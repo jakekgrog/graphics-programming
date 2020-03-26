@@ -13,3 +13,10 @@ MyMouse2
 Idle.c
  - If idle, rotate square by incrementing theta
 
+
+==== Week 9 ====
+# 3D Perspectives
+
+Parallel Perspectives
+ - 
+
