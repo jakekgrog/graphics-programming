@@ -20,3 +20,10 @@ Idle.c
 Parallel Perspectives
  - 
 
+Reflection
+ - Phong Model
+    - Diffuse - scattered reflection from rough (at a microscopic level) surface
+    - specular - reflection from something like metal, glass, mirror
+    - ambient - light being reflect off many objects (soup of light)
+    - emissive - where object itself emits light
+
